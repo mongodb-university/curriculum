@@ -99,7 +99,7 @@ source .venv/bin/activate
 Install all required packages:
 
 ```bash
-uv add langchain==0.3.24 langchain-openai==0.3.14 langgraph==0.3.31 langgraph-checkpoint-mongodb==0.1.3 pymongo==4.11.3 voyageai==0.3.2 datasets
+uv add langchain==0.3.24 langchain-openai==0.3.14 langgraph==0.3.31 langgraph-checkpoint-mongodb==0.1.3 pymongo==4.11.3 voyageai==0.3.7 datasets
 ```
 
 **Verify installation:**
